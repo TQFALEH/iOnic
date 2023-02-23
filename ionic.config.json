@@ -1,0 +1,7 @@
+{
+  "name": "tq-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
